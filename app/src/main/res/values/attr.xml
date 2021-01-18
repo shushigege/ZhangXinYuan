@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+<!--半径属性-->
+    <attr name="radius" format="dimension" />
+    <!--自定义控件属性-->
+    <declare-styleable name="ArcMenu">F
+        <!--<attr name="position" />-->
+        <attr name="radius" />
+    </declare-styleable>
+</resources>
